@@ -1,0 +1,14 @@
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# OS specific ignores
+.DS_Store
+Thumbs.db
